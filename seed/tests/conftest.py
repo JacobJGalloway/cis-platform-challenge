@@ -11,6 +11,10 @@ from app.seed_data import load_pay_events
 @pytest.fixture(autouse=True)
 def _reset_pay_stream():
     pay_service._EVENTS.clear()
+    pay_service._DISPATCHED.clear()
+    pay_service._REVIEW_QUEUE.clear()
     load_pay_events()
     yield
     pay_service._EVENTS.clear()
+    pay_service._DISPATCHED.clear()
+    pay_service._REVIEW_QUEUE.clear()
