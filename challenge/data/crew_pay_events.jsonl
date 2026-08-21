@@ -1,0 +1,5 @@
+{"event_id":"EVT-9001","work_order_id":"WO-100841","pay_run_id":"PR-2026-30","crew_id":"CRW-208","event_type":"pay.requested","amount_usd":318.75,"labor_code":"INS-CPT-STD","occurred_at":"2026-07-28T14:02:11Z"}
+{"event_id":"EVT-9002","work_order_id":"WO-100843","pay_run_id":"PR-2026-30","crew_id":"CRW-211","event_type":"pay.requested","amount_usd":232.50,"labor_code":"INS-LVP-STR","occurred_at":"2026-07-28T14:04:55Z"}
+{"event_id":"EVT-9003","work_order_id":"WO-100841","pay_run_id":"PR-2026-30","crew_id":"CRW-208","event_type":"pay.requested","amount_usd":318.75,"labor_code":"INS-CPT-STD","occurred_at":"2026-07-28T14:09:37Z"}
+{"event_id":"EVT-9004","work_order_id":"WO-100845","pay_run_id":"PR-2026-30","crew_id":"CRW-208","event_type":"pay.requested","amount_usd":414.38,"labor_code":"INS-CPT-STR","occurred_at":"2026-07-28T15:20:02Z"}
+{"event_id":"EVT-9005","work_order_id":"WO-100847","pay_run_id":"PR-2026-30","crew_id":"CRW-215","event_type":"pay.requested","amount_usd":202.50,"labor_code":"INS-LVP-STD","occurred_at":"2026-07-28T15:41:19Z"}
